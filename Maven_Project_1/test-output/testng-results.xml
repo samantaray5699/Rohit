@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Search Test Case is completed]]>
+    </line>
+    <line>
+      <![CDATA[Vote Test Case is completed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-05-24T15:10:16 IST" name="Suite" finished-at="2024-05-24T15:10:29 IST" duration-ms="13429">
+    <groups>
+    </groups>
+    <test started-at="2024-05-24T15:10:16 IST" name="Test" finished-at="2024-05-24T15:10:29 IST" duration-ms="13429">
+      <class name="Maven_Basics.SearchTest">
+        <test-method signature="SearchTestcase()[pri:0, instance:Maven_Basics.SearchTest@55183b20]" started-at="2024-05-24T15:10:16 IST" name="SearchTestcase" finished-at="2024-05-24T15:10:24 IST" duration-ms="8383" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Search Test Case is completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SearchTestcase -->
+      </class> <!-- Maven_Basics.SearchTest -->
+      <class name="Maven_Basics.VoteTest">
+        <test-method signature="voteTestcase()[pri:0, instance:Maven_Basics.VoteTest@3c19aaa5]" started-at="2024-05-24T15:10:24 IST" name="voteTestcase" finished-at="2024-05-24T15:10:29 IST" duration-ms="4957" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Vote Test Case is completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- voteTestcase -->
+      </class> <!-- Maven_Basics.VoteTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
